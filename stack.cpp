@@ -1,7 +1,7 @@
 
  /* Name:		Michael Ressler
   * Class:		CSCI112 Programming with C
-  * Assignment:	Practice with Stacks
+  * Assignment:		Practice with Stacks
   * Date:		4/4/2019
   */
 #include <iostream>
