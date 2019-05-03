@@ -2,8 +2,6 @@
  /* Name:		Michael Ressler
   * File:		Stack Header
   * Program:		Stack.cpp
-  *
-  * 
   */
 
 #ifndef STACK_H
