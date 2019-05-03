@@ -1,7 +1,7 @@
 
  /* Name:		Michael Ressler
   * File:		Stack Header
-  * Program:	Stack.cpp
+  * Program:		Stack.cpp
   *
   * 
   */
