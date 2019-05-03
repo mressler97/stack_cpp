@@ -1,14 +1,8 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 
- /*
-  * File:   stack.cpp
-  * Author: k57h721
-  *
-  * Created on April 4, 2019, 11:10 AM
+ /* Name:		Michael Ressler
+  * Class:		CSCI112 Programming with C
+  * Assignment:	Practice with Stacks
+  * Date:		4/4/2019
   */
 #include <iostream>
 using namespace std;
