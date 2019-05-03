@@ -1,14 +1,9 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 
- /*
-  * File:   main.cpp
-  * Author: k57h721
-  *
-  * Created on April 4, 2019, 11:10 AM
+ /* Name:		Michael Ressler
+  * Class:		Programming with C
+  * File:   	main.cpp
+  * Assignment:		C++ Stack program 
+  * Date:		4/04/2019
   */
 
 #include <cstdlib>
