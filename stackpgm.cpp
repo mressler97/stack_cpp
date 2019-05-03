@@ -1,7 +1,7 @@
 
  /* Name:		Michael Ressler
   * Class:		Programming with C
-  * File:   	main.cpp
+  * File:   		main.cpp
   * Assignment:		C++ Stack program 
   * Date:		4/04/2019
   */
@@ -10,9 +10,7 @@
 #include <iostream>
 using namespace std;
 #include "stack.h"
-/*
- *
- */
+
 int main(int argc, char** argv) {
 	stack stk;
 	stk.push(2);
